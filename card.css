@@ -1,0 +1,21 @@
+body{
+    display:block;
+    width:400px;
+    margin:100px auto;
+  
+}
+.main{
+    width: 400px;
+    margin:100px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background:#E39EC1 ;
+    color: #DEBAC0;
+    font-style: italic;
+    border-bottom:7px solid #C47AB0;
+}
+.img{
+    width:150px;
+}
